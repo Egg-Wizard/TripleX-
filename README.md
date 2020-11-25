@@ -3,7 +3,7 @@ A small command-line game created using C++ following https://www.udemy.com/cour
 
 Overall functionality is solid, current issues include:
 
--String and console output not properly wrappin(resulting in text not being visible in windowed mode without scrolling(unlikely to fix)
+-String and console output not properly wrapping(resulting in text not being visible in windowed mode without scrolling(unlikely to fix)
 
 -First level is not randomized. Could be fixed by making the range window a bit larger, or creating smaller randomization by having the initial level fall between a modulus of 0-3 for a slight bit of variety
 
