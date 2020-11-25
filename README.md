@@ -1,5 +1,5 @@
 # TripleX-
-A small console game created using C++ following https://www.udemy.com/course/unrealcourse/
+A small command-line game created using C++ following https://www.udemy.com/course/unrealcourse/
 
 Overall functionality is solid, current issues include:
 
