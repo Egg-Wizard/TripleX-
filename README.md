@@ -20,3 +20,5 @@ Overall functionality is solid, current issues include:
 -Still not entirely sure how srand(time(NULL)); function works outside of seeding, passing the time function, and then passing NULL. Not sure what NULL does tbh.
 
 For my first CPP project, not too bad considering I was just working on UE4 BPs.
+
+*I forgot how to use GIT Im sorry :(*
